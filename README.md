@@ -1,7 +1,7 @@
 # HIRAX-Vissim-Tutorial
 This is a repository for HIRAX visibility simulation tutorial meant for the usage of HIRAX collaborators only. 
 
-# Isntructions to setup
+# Instructions to setup
 
 Make sure you have python3.10. Optionally, you can create a python3.10 environment using conda if you are dealing with multiple python versions. 
 

@@ -15,7 +15,7 @@ This will ensure that you have a virtual environment where all packages are inst
 In the terminal run :
 
 ```bash
-source hiraxvenv/bin/activate
+source venv/bin/activate
 ```
 to activate the created virtual environment. 
 

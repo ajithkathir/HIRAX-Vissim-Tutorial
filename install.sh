@@ -13,14 +13,9 @@ fi
 echo "Creating virtual environment..."
 python3 -m venv venv
 
-# Activate the virtual environment
-echo "Activating virtual environment..."
-source venv/bin/activate
-
 
 # On Windows
 #.\venv\Scripts\activate
-
 
 # Install required packages
 echo "Installing required packages..."

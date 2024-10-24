@@ -24,7 +24,7 @@ pip install numpy matplotlib scipy pandas healpy astropy casatools casatasks ipy
 
 
 # Add the virtual environment as a new Jupyter kernel
-python3 -m ipykernel install --user --name=venv --display-name "Python (venv) hirax"
+python3 -m ipykernel install --user --name=venv --display-name "Hirax Python env"
 
 
 # Verification of the installation

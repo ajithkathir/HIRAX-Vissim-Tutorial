@@ -21,7 +21,7 @@ to activate the created virtual environment.
 
 
 Once the packages are installed and venv activated, we will use Jupyterlab or Notebook for the tutorial session. 
-I have provided a sample skyimage file (h5) for this tutorial shared in googledrive folder.
+I have provided a sample skyimage and beam file (h5) for this tutorial shared in googledrive for Day3 under 'Visibility simulator data files'folder.
 Link: https://drive.google.com/drive/folders/1HTaJLolP4IzMQ6egkChvSUzNj93bqJnl?usp=drive_link
 
 Download and place it in the tutorial folder. 

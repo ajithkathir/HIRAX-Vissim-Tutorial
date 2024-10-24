@@ -2,11 +2,10 @@
 #Date : 20-10-2024
 
 
-from functools import partial
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib
-from pygdsm import GlobalSkyModel, GSMObserver
+#from pygdsm import GlobalSkyModel, GSMObserver
 import datetime as dt
 import healpy as hp
 from tqdm import tqdm

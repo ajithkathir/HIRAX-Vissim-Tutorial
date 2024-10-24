@@ -29,6 +29,7 @@ Download and place it in the tutorial folder.
 Also create a directory called /.casa/data in your home directory. For example:
 
 ```bash
+mkdir /home/ajith/.casa
 mkdir /home/ajith/.casa/data
 ```
 so that the CASA downloads latest measures data from its ftp servers, when it is run for the first time. 

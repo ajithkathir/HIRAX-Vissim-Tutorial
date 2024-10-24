@@ -20,7 +20,7 @@ python3 -m venv venv
 # Install required packages
 echo "Installing required packages..."
 pip install --upgrade pip  # Upgrade pip to the latest version
-pip install numpy matplotlib scipy pandas healpy astropy casatools casatasks ipykernel pygdsm
+pip install numpy matplotlib scipy pandas healpy astropy casatools casatasks ipykernel jupyter ipython tqdm
 
 
 # Add the virtual environment as a new Jupyter kernel
